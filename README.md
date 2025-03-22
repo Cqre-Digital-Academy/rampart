@@ -1,10 +1,10 @@
-# Basam Construction Website
+# Rampart Construction Website
 
-A modern, responsive landing page for Basam Construction - a construction and real estate development company based in Abuja, Nigeria.
+A modern, responsive landing page for Rampart Construction - a construction and real estate development company based in Abuja, Nigeria.
 
 ## Project Overview
 
-This landing page showcases Basam Construction's services, projects, and company information. The website features a clean, professional design that highlights their expertise in construction, project management, real estate development, and consultancy services.
+This landing page showcases Rampart Construction's services, projects, and company information. The website features a clean, professional design that highlights their expertise in construction, project management, real estate development, and consultancy services.
 
 ## Features
 
@@ -47,7 +47,7 @@ This landing page showcases Basam Construction's services, projects, and company
 
 ### Contact Information
 - Phone: +234 (0) 7034481384
-- Email: info@basamconstruction.com
+- Email: info@Rampartconstruction.com
 - Address: First Floor, Block B 50, Ebitu Ukiwe Street, (Bright Star Plaza) Jabi, Abuja, FCT
 
 ### Core Brand Values
@@ -90,4 +90,4 @@ For any changes or improvements:
 
 For support or inquiries, contact:
 - Technical support: [Add technical contact]
-- Content updates: info@basamconstruction.com
+- Content updates: info@Rampartconstruction.com

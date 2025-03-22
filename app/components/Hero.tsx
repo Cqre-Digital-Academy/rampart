@@ -32,7 +32,7 @@ const Hero = ({ isDisplayed, setIsDisplayed }: Props) => {
       <div className='bg-black/50 relative px-6 lg:px-20 py-10 w-full h-full flex flex-row items-center'>
         <div className='flex flex-col gap-2 w-full lg:max-w-[50%] md:flex-1'>
           <div className='flex lg:flex-row flex-col lg:items-end gap-3'>
-            <h1 className='text-[40px] lg:text-[70px] font-bold capitalize text-white'>Basam</h1>
+            <h1 className='text-[40px] lg:text-[70px] font-bold capitalize text-white'>Rampart</h1>
             <div className='lg:text-[30px] text-[25px] font-extralight  text-white -translate-y-4'>your partners in</div>
           </div>
           <div className='text-white font-bold capitalize text-[40px] lg:text-[70px] min-lg:leading-10 leading-4 lg:space-y-3'>

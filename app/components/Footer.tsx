@@ -9,7 +9,7 @@ const Footer = () => {
     return (
         <div className=' py-20 flex lg:flex-row flex-col gap-[5%] items-center text-white px-6 lg:px-20 bg-[#45355f]'>
             <div className='lg:w-[45%] w-full'>
-                <h3 className=' text-white uppercase text-4xl py-3'>Basam</h3>
+                <h3 className=' text-white uppercase text-4xl py-3'>Rampart</h3>
                 <p className='text-sm text-wrap'>
                     We are recognized as one of the best in delivering innovative Construction, Civic Engineering, Real Estate Development, Renovation, Architectural Design, and Interior Design solutions
                 </p>
@@ -28,7 +28,7 @@ const Footer = () => {
                         </span>
                         <span className='flex items-center gap-3 font'>
                             <HiOutlineEnvelope className='font-bold' size={16} />
-                            <span className='text-[14px]'>info@basamconstruction.com</span>
+                            <span className='text-[14px]'>info@Rampartconstruction.com</span>
                         </span>
                     </div>
                 </div>

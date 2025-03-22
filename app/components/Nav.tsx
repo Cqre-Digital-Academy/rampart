@@ -52,11 +52,8 @@ const Nav = ({ isDisplayed, setIsDisplayed }: Props) => {
 
     return (
         <div className='flex justify-between sticky top-0 z-[40] bg-white items-center py-4 lg:px-20 px-6 text-black w-full'>
-            <div className={`${scrolled ? 'flex' : 'hidden'}`}>
-                <Image src='/assets/icons/mini-logo.webp' alt='mini-logo' width={50} height={50} />
-            </div>
-            <div className={`${scrolled ? 'hidden' : 'flex'}`}>
-                <Image src='/assets/icons/basam.webp' className='lg:w-[180px] w-[130px]' alt='logo' width={180} height={60} />
+            <div className={`text-[32px] text-gray-900 uppercase`}>
+                Rampart
             </div>
             <ul className='lg:flex hidden  items-center gap-6 font-bold uppercase text-[#45355f]'>
                 <Link href={"#about"} className='hover:bg-[#45355f] hover:text-white text-[14px] cursor-pointer py-2 px-4 rounded-lg'>About</Link>
@@ -78,7 +75,7 @@ const Nav = ({ isDisplayed, setIsDisplayed }: Props) => {
                     </div>
                 </SheetTrigger>
                 <SheetContent className='pt-20 max-md:flex hidden flex-col overflow-y-auto items-start'>
-                    <SheetTitle className='text-left text-2xl pb-4'>Basam Ltd.</SheetTitle>
+                    <SheetTitle className='text-left text-2xl pb-4'>Rampart Ltd.</SheetTitle>
                     {
                         nav.map((item, index) => {
                             return index !== 1 ? (

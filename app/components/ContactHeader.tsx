@@ -14,7 +14,7 @@ const ContactHeader = () => {
                 </span>
                 <span className='flex items-center gap-3 font'>
                     <HiOutlineEnvelope className='font-bold' size={16} />
-                    <span className='lg:text-[14px] text-[12px]'>info@basamconstruction.com</span>
+                    <span className='lg:text-[14px] text-[12px]'>info@Rampartconstruction.com</span>
                 </span>
             </div>
             <div className='lg:flex hidden items-center gap-4'>

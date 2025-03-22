@@ -17,7 +17,7 @@ import {
 export const formSchema = z.object({
   username: z.string().min(3),
   email: z.string().email(),
-  phone: z.number().min(10),
+  phone: z.string().min(10),
   project_type: z.string().min(3),
 })
 
