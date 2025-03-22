@@ -7,7 +7,7 @@ import { RiTwitterXLine } from 'react-icons/ri'
 
 const Footer = () => {
     return (
-        <div className=' py-20 flex lg:flex-row flex-col gap-[5%] items-center text-white px-6 lg:px-20 bg-[#45355f]'>
+        <div className=' py-20 flex lg:flex-row flex-col gap-[5%] items-center text-white px-6 lg:px-20 bg-black/95'>
             <div className='lg:w-[45%] w-full'>
                 <h3 className=' text-white uppercase text-4xl py-3'>Rampart</h3>
                 <p className='text-sm text-wrap'>
@@ -24,7 +24,7 @@ const Footer = () => {
                     <div className='flex lg:flex-row flex-col lg:items-center gap-6'>
                         <span className='flex items-center gap-3 font'>
                             <FiPhone className='font-bold' size={16} />
-                            <p className='text-[14px]'>+234 (0) 7034481384</p>
+                            <p className='text-[14px]'>+234 816 344 4150</p>
                         </span>
                         <span className='flex items-center gap-3 font'>
                             <HiOutlineEnvelope className='font-bold' size={16} />

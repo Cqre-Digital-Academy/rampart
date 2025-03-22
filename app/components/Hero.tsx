@@ -38,7 +38,7 @@ const Hero = ({ isDisplayed, setIsDisplayed }: Props) => {
           <div className='text-white font-bold capitalize text-[40px] lg:text-[70px] min-lg:leading-10 leading-4 lg:space-y-3'>
             <Typewriter
               options={{
-                strings: ['Project Mgmt', "Construction", "Real-estate", 'Consultation',],
+                strings: ['Project Mgmt', "Construction", 'Consultation'],
                 autoStart: true,
                 loop: true,
                 cursor: "_",
