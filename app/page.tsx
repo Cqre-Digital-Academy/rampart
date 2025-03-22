@@ -19,7 +19,7 @@ export default function Home() {
       <Nav isDisplayed={isDislayed} setIsDisplayed={setIsDisplayed} />
       <div className="overflow-x-hidden">
         <Hero isDisplayed={isDislayed} setIsDisplayed={setIsDisplayed} />
-        <About />
+        <About isDisplayed={isDislayed} setIsDisplayed={setIsDisplayed} />
         <Goals />
         <Services />
         <Project />
